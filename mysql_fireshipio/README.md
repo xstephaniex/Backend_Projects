@@ -1,11 +1,11 @@
 # MySQL---Practice
 
 > Practicing basic MySQL (open-source database) concepts, commands and syntax based on Fireship YouTube tutorial.
-> This tutorial recreates the Airbnb application basic datasbase structure :grinning:.
+> This tutorial recreates the Airbnb application basic database structure :grinning:.
 
 ## Prerequisites
 
-Requires mysql (version 8 or later).
+It requires MySQL (version 8 or later).
 [MySQL](https://dev.mysql.com/downloads/) is really easy to install.
 To make sure you have it available on your machine,
 try running the following command: 
@@ -23,7 +23,7 @@ v8.0.30
   - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [ResourcesandAcknowledgments](#Resources-&&-Acknowledgments)
+  - [Resources and Acknowledgments](#Resources-&&-Acknowledgments)
 
 
 ## Getting Started
@@ -44,7 +44,7 @@ $ cd mysql_fireshipio
 ```
 ## Usage
 
-- Steps for Running the .sql file from the terminal are:
+- Steps for running the .sql file from the terminal are:
 
     1. Connect to MySQL server as a *root* user: `mysql -uroot -p`
     2. Enter *root* user password
