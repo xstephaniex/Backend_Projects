@@ -1,5 +1,11 @@
 -- Stephanie Vargas Villarini --- fireship.io tutorial
 
+-- Create the database
+CREATE DATABASE airbnb_practice;
+
+-- Select the database created
+USE airbnb_practice;
+
 -- @block
 -- Create users table
 CREATE TABLE Users(
@@ -76,4 +82,4 @@ CREATE TABLE Bookings(
       FOREIGN KEY(room_id) REFERENCES Rooms(id)
 );
 
--- Delete table or database use the DROP TABLE ... or DROP DATABASE ...
+-- Delete table or database use the DROP TABLE <nameofyourtable> or DROP DATABASE <nameofyourdatabase>
