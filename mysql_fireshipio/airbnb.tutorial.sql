@@ -1,4 +1,4 @@
--- Stephanie Vargas Villarini --- fireship.io tutorial
+-- Stephanie Vargas Villarini --- Fireship tutorial
 
 -- Create the database
 CREATE DATABASE airbnb_practice;
