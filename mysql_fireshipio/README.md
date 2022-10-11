@@ -1,12 +1,12 @@
 # MySQL---Practice
 
-> Practicing basic MySQL open-source database concepts, commands and syntax based on Fireship youtube tutorial.
-> This tutorial recreates a database based on the Airbnb application :grinning:.
+> Practicing basic MySQL (open-source database) concepts, commands and syntax based on Fireship YouTube tutorial.
+> This tutorial recreates the Airbnb application basic datasbase structure :grinning:.
 
 ## Prerequisites
 
-This project requires mysql (version 8 or later).
-[mysql](https://dev.mysql.com/downloads/) is really easy to install.
+Requires mysql (version 8 or later).
+[MySQL](https://dev.mysql.com/downloads/) is really easy to install.
 To make sure you have it available on your machine,
 try running the following command: 
 
@@ -28,9 +28,9 @@ v8.0.30
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you a copy of the project in your local machine.
 
-This project has an sql file that has the basic MySQL concepts, commands and syntax inside of it.
+This project has a .sql file (the file is called airbnb.tutorial), and inside of it, there are MySQL basic concepts, commands, and syntax.
 
 ## Installation
 
@@ -44,7 +44,7 @@ $ cd mysql_fireshipio
 ```
 ## Usage
 
-- Run .sql file from the terminal steps:
+- Steps for Running the .sql file from the terminal are:
 
     1. Connect to MySQL server as a *root* user: `mysql -uroot -p`
     2. Enter *root* user password
@@ -54,10 +54,10 @@ For more ways, on how to run the .sql file refer to the Nathan Sebhastian guide 
 
 ## Resources && Acknowledgments
 
-* **Fireship** - *MySQL - The Basics // Learn SQL in 23 Easy Steps* - [Fireship](https://www.youtube.com/watch?v=Cz3WcZLRaWc&t=590s)
+* **Fireship** - *MySQL - The Basics // Learn SQL in 23 Easy Steps* - [Fireship YouTube Tutorial](https://www.youtube.com/watch?v=Cz3WcZLRaWc&t=590s)
 
-* **Fireship** - *Entity relationship diagram -- relational data modeling -- database schema* - [Fireship](https://drawsql.app/teams/fireship/diagrams/airbnb-mysql-tutorial)
+* **Fireship** - *Entity relationship diagram -- relational data modeling -- database schema* - [Fireship Diagram](https://drawsql.app/teams/fireship/diagrams/airbnb-mysql-tutorial)
 
-* **Nathan Sebhastian** - *MySQL - How to run SQL file or script from the terminal* - [Sebhastian](https://sebhastian.com/mysql-running-sql-file/)
+* **Nathan Sebhastian** - *MySQL - How to run SQL file or script from the terminal* - [Natham Sebhastian Article](https://sebhastian.com/mysql-running-sql-file/)
 
 
